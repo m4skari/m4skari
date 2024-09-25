@@ -13,7 +13,7 @@ python
 - c++
 - matlab
 - verilog
-- Get in Touch
+# Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/mohammad-askari-000a8619a/))
 - [Twitter](x.com\inmohammade)
 
