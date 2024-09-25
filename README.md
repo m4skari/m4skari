@@ -9,11 +9,11 @@ I’m an Electrical Engineering student exploring the thrilling world of Machine
 ## Skills
 - Programming Languages: 
 python
-# c
-# c++
-# matlab
-# verilog
-## Get in Touch
+- c
+- c++
+- matlab
+- verilog
+- Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/mohammad-askari-000a8619a/))
 - [Twitter](x.com\inmohammade)
 
