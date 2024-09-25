@@ -7,8 +7,12 @@ I’m an Electrical Engineering student exploring the thrilling world of Machine
 - [Project 2](link_to_project) - A brief description of what it does.
 
 ## Skills
-- Programming Languages: [python c c++ matlab verilog ]
-
+- Programming Languages: 
+python
+c
+c++
+matlab
+verilog
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/mohammad-askari-000a8619a/))
 - [Twitter](x.com\inmohammade)
