@@ -11,7 +11,7 @@ I’m an Electrical Engineering student exploring the thrilling world of Machine
 - Tools & Technologies: [List tools]
 
 ## Get in Touch
-- [LinkedIn]([your_linkedin](https://www.linkedin.com/in/mohammad-askari-000a8619a/))
+- [LinkedIn]((https://www.linkedin.com/in/mohammad-askari-000a8619a/))
 - [Twitter](x.com\inmohammade)
 
 
