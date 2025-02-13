@@ -6,7 +6,7 @@ I’m an Electrical Engineering student exploring the thrilling world of Machine
 will be updated.
 
 ## Skills
-- Programming Languages: 
+Programming Languages: 
 - python
 - c
 - c++
