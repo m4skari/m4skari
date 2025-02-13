@@ -14,6 +14,6 @@ Programming Languages:
 - verilog
 # Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/mohammad-askari-000a8619a/)
-- [Twitter](x.com\inmohammade)
+- [Telegram](Telegram.com\ThisIsMohammadAskari)
 
 
