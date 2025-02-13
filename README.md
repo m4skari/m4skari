@@ -7,7 +7,7 @@ will be updated.
 
 ## Skills
 - Programming Languages: 
-python
+- python
 - c
 - c++
 - matlab
