@@ -1,9 +1,5 @@
 # Hi there, I'm mohammad Askari ! 👋
 
-## About Me
-کنجکاو
-will be updated.
-
 ## Skills
 Programming Languages: 
 - python
