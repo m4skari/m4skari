@@ -45,9 +45,8 @@ Undergraduate thesis project: **Markowitz portfolio optimization** combined with
 ---
 
 ## 📫 Connect with Me
-- GitHub: [@m4skari](https://github.com/m4skari)  
-- LinkedIn: *(add your link here)*  
-- Email: *(add your email here)*  
+- GitHub: [@m4skari](https://github.com/m4skari)    
+- Email: *mohammadeaskary@gmail.com*  
 
 ---
 ✨ *Always curious. Always building.*  
