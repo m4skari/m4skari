@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammad Askari  
 
-🎓 Final-year Electrical Engineering Student @ University of Tehran (Class of 2018)  
+🎓  Electrical Engineering @ University of Tehran 
 💡 Passionate about **AI, NLP, Quantitative Finance, and Optimization**
 
 ---
