@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Mohammad Askari  
 
 🎓 Final-year Electrical Engineering Student @ University of Tehran (Class of 2018)  
-📈 Accepted for Master's in Industrial Engineering @ Tarbiat Modares University (Quant/Optimization track)  
 💡 Passionate about **AI, NLP, Quantitative Finance, and Optimization**
 
 ---
