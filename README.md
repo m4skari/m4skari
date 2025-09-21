@@ -27,7 +27,7 @@ A full **AI-powered voice response system**:
 STT (Whisper) → Intent & Sentiment → GPT Response → TTS (Gemini) → SQLite logging.  
 Includes web dashboard + load testing tools.  
 
-### 📊 [Portfolio Optimization with ML](https://github.com/m4skari/linear-algebra-project-NLP-)  
+### 📊 [Portfolio Optimization with ML](https://github.com/m4skari/BachelorProject)  
 Undergraduate thesis project: **Markowitz portfolio optimization** combined with **machine learning** for improved financial decision-making.  
 
 ### 🤖 NLP Tweet Decipher Series  
