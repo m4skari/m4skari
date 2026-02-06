@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Mohammad Askari  
 
-  Electrical Engineering(Control systems) @ University of Tehran 
-  Industrial Engineering(Optimization Methods) @ University of Tehran
- Passionate about **AI, Finance, and Optimization**
+  - Electrical Engineering(Control systems) @ University of Tehran 
+  - Industrial Engineering(Optimization Methods) @ University of Tehran
+  - Passionate about **AI, Finance, and Optimization**
 ---
 
 ##  About Me
