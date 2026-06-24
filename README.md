@@ -7,15 +7,15 @@
 
 ##  About Me
 -  Strong background in **mathematics, optimization, and machine learning**  
--  Experienced in building **AI-powered applications** from scratch (voice assistants, NLP systems, data-driven tools)  
+-  Experienced in building **AI-powered applications** from scratch  
 
 ---
 
 ##  Tech Stack
 - **Languages:** Python, MATLAB, SQL  
 - **AI/ML:** PyTorch, Scikit-learn, Transformers, Whisper, LLM APIs  
-- **Web/Tools:** Flask, Gunicorn, Docker, SQLite  
-- **Optimization & Finance:** Linear Programming, Markowitz Portfolio Theory, Monte Carlo Simulation, Non-linear programming, Robust optimization 
+- **Web/Tools:** Flask, Docker, SQLite  
+- **Optimization & Finance:** Linear, Non-Linear & Integer Programming, Markowitz Portfolio Theory, Monte Carlo Simulation, Non-linear programming, Robust optimization 
 
 ---
 
@@ -28,7 +28,7 @@ Includes web dashboard + load testing tools.
 ###  [Portfolio Optimization with ML](https://github.com/m4skari/BachelorProject)  
 Undergraduate thesis project: **Markowitz portfolio optimization** combined with **machine learning** for improved financial decision-making.  
 
-###  NLP Tweet Decipher Series  
+###  Natural Language Proceesing Tweet Decipher Series(fun)  
 - [Decipher Lokomotiv Tweet](https://github.com/m4skari/DecipherLokomotivTweet)  
 - [Decipher Cafe Riazi Tweet](https://github.com/m4skari/DecipherCafeRiaziTweet)  
 
