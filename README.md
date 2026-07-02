@@ -35,7 +35,7 @@ Undergraduate thesis project: **Markowitz portfolio optimization** combined with
 ---
 
 ## 🌱 Current Focus
-- Preparing for research and professional opportunities in ** Optimization Field **  
+- Preparing for research and professional opportunities in Optimization Field 
 
 ---
 
