@@ -2,7 +2,7 @@
 
   - bachelor of Electrical Engineering(Control systems) @ University of Tehran (graduated) 
   - master of Industrial Engineering(Optimization Methods) @ University of Tehran 
-  - Passionate about **AI, Money, and Optimization**
+  - Passionate about **AI and Optimization**
 ---
 
 ##  About Me
