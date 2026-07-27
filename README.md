@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohammad Askari  
+#  Hi, I'm Mohammad Askari  
 
   - bachelor of Electrical Engineering(Control systems) @ University of Tehran (graduated) 
   - master of Industrial Engineering(Optimization Methods) @ University of Tehran 
@@ -19,7 +19,7 @@
 
 ---
 
-## 📌 Highlighted Projects
+##  Highlighted Projects
 ###  [Smart Call Assistant](https://github.com/m4skari/smart-call-assistant)  
 A full **AI-powered voice response system**:  
 STT (Whisper) → Intent & Sentiment → GPT Response → TTS (Gemini) → SQLite logging.  
@@ -34,14 +34,12 @@ Undergraduate thesis project: **Markowitz portfolio optimization** combined with
 
 ---
 
-## 🌱 Current Focus
-- Preparing for research and professional opportunities in Optimization Field 
-
+##  Current Focus
+- Preparing for research and professional opportunities in Optimization Field
 ---
 
-## 📫 Connect with Me
-- GitHub: [@m4skari](https://github.com/m4skari)    
+##  Connect with Me
 - Email: *mohammadeaskary@gmail.com*  
 
 ---
-✨ *Always curious. Always building.*  
+ *Always curious. Always building.*  
